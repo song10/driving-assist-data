@@ -2218,7 +2218,7 @@
       "lng": 120.685556,
       "type": "enforcement",
       "address": "北屯區崇德路與文心路口",
-      "speed_limit": null,
+      "speed_limit": 50,
       "direction": null,
       "source_id": "",
       "published_at": "2026-04-25"
@@ -2416,7 +2416,7 @@
       "lng": 120.686472,
       "type": "enforcement",
       "address": "北屯區環中路與崇德路口",
-      "speed_limit": null,
+      "speed_limit": 50,
       "direction": null,
       "source_id": "",
       "published_at": "2026-04-25"
@@ -2768,7 +2768,7 @@
       "lng": 120.68511,
       "type": "enforcement",
       "address": "北區太原路與崇德路口",
-      "speed_limit": null,
+      "speed_limit": 50,
       "direction": null,
       "source_id": "",
       "published_at": "2026-04-25"
